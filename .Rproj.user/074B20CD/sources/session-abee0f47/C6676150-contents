@@ -1,0 +1,7 @@
+library(blogdown)
+blogdown::new_site(theme = "zhaohuabing/hugo-theme-cleanwhite")
+list.files(pattern = "config.*")
+blogdown::serve_site()
+blogdown::check_site()
+list.files()
+

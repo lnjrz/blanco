@@ -1,0 +1,14 @@
+---
+title: "Mi Primera Gráfica"
+author: "Yo"
+date: "`r Sys.Date()`"
+output: blogdown::html_page
+---
+
+```{r, echo=FALSE}
+library(ggplot2)
+ggplot(mtcars, aes(mpg, hp)) + 
+  geom_point(color = "blue") +
+  labs(title = "Consumo de Combustible vs Potencia",
+       x = "Millas por galón (mpg)",
+       y = "Caballos de fuerza (hp)")
