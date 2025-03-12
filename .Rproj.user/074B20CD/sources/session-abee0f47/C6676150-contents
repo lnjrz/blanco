@@ -4,4 +4,4 @@ list.files(pattern = "config.*")
 blogdown::serve_site()
 blogdown::check_site()
 list.files()
-
+blogdown::stop_server()

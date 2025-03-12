@@ -15,26 +15,5 @@
       <guid>http://localhost:4321/categories/r/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Tech</title>
-      <link>http://localhost:4321/categories/tech/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/categories/tech/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tips</title>
-      <link>http://localhost:4321/categories/tips/</link>
-      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/categories/tips/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Life</title>
-      <link>http://localhost:4321/categories/life/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/categories/life/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
